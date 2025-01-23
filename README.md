@@ -1,6 +1,6 @@
 # Week-2 Deliverable
 
-## Etity Relationship Diagram for Database
+## Entity Relationship Diagram for Database
 
 ### Below is an ERD for an Online Shopping System
 
